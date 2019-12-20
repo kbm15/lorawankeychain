@@ -11,7 +11,7 @@ Piezo Driver - https://www.mouser.es/ProductDetail/Diodes-Incorporated/PAM8904EJ
 TO-DO:  
 Choose piezo buzzer  
 Choose boost from: 
-http://www.ti.com/lit/ds/symlink/tps61261.pdf
-https://www.torexsemi.com/file/xc9141/XC9141-XC9142.pdf
-https://www.mouser.es/datasheet/2/268/20005253A-596569.pdf
-https://www.mouser.es/datasheet/2/348/bu33dv7nux-e-476015.pdf
+http://www.ti.com/lit/ds/symlink/tps61261.pdf  
+https://www.torexsemi.com/file/xc9141/XC9141-XC9142.pdf  
+https://www.mouser.es/datasheet/2/268/20005253A-596569.pdf  
+https://www.mouser.es/datasheet/2/348/bu33dv7nux-e-476015.pdf  
