@@ -1,0 +1,22 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Monday, January 06, 2020
+Project Path:       C:\Users\KBM15\Documents\DesignSpark\lorachain.prj
+Design Path:        C:\Users\KBM15\Documents\DesignSpark\lorachain.pcb
+Design Title:       
+Created:            06/01/2020 2:41:45
+Last Saved:         06/01/2020 3:07:08
+Editing Time:       33 min
+Units:              mm (precision 3)
+
+Disconnected pin "IC2.1" from net "VDD".
+Disconnected pin "IC2.17" from net "VDD".
+
+Deleted net "VDD".
+
+Connected pin "IC2.1" to net "VCC".
+Connected pin "IC2.17" to net "VCC".
+
+
+End Of Report.

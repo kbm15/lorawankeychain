@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, January 06, 2020
+Project Path:       C:\Users\KBM15\Documents\DesignSpark\lorachain.prj
+Design Path:        C:\Users\KBM15\Documents\DesignSpark\lorachain.pcb
+Design Title:       
+Created:            06/01/2020 2:41:45
+Last Saved:         06/01/2020 3:07:08
+Editing Time:       33 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "C:\Users\KBM15\Documents\DesignSpark\lorachain.sch" with PCB "C:\Users\KBM15\Documents\DesignSpark\lorachain.pcb"
+==================================================================================================================================================
+
+
+End Of Report.
