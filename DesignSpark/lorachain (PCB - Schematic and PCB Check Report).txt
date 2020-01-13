@@ -1,13 +1,13 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     Wednesday, January 08, 2020
+Report Written:     Monday, January 13, 2020
 Project Path:       C:\Users\ahermosa\Documents\lorawankeychain\DesignSpark\lorachain.prj
 Design Path:        C:\Users\ahermosa\Documents\lorawankeychain\DesignSpark\lorachain.pcb
 Design Title:       
 Created:            06/01/2020 2:41:45
-Last Saved:         08/01/2020 15:08:32
-Editing Time:       1553 min
+Last Saved:         08/01/2020 15:38:17
+Editing Time:       1621 min
 Units:              mm (precision 3)
 
 

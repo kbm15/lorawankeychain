@@ -1,16 +1,98 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     Wednesday, January 08, 2020
+Report Written:     Monday, January 13, 2020
 Project Path:       C:\Users\ahermosa\Documents\lorawankeychain\DesignSpark\lorachain.prj
 Design Path:        C:\Users\ahermosa\Documents\lorawankeychain\DesignSpark\lorachain.pcb
 Design Title:       
 Created:            06/01/2020 2:41:45
-Last Saved:         08/01/2020 15:08:32
-Editing Time:       1553 min
+Last Saved:         08/01/2020 15:38:17
+Editing Time:       1621 min
 Units:              mm (precision 3)
 
-Added component reference "AC2" of component "MMA8653FCR1", package "SON40P200X200X100-10N-D".
+Disconnected pin "AC1.1" from net "N0033".
+Disconnected pin "AC1.2" from net "N0042".
+Disconnected pin "AC1.4" from net "N0034".
+Disconnected pin "AC1.6" from net "GND".
+Disconnected pin "AC1.7" from net "GND".
+Disconnected pin "AC1.8" from net "GND".
+Disconnected pin "AC1.9" from net "VCC".
+Disconnected pin "AC1.10" from net "VCC".
+Disconnected pin "AC1.12" from net "N0038".
+Disconnected pin "R1.1" from net "N0042".
+Disconnected pin "R1.2" from net "VCC".
+
+Deleted component reference "AC1".
+
+Deleted net "N0042".
+
+Changed value "Value" on component reference "C12" to "1uF".
+Deleted value "Value" from component reference "C14".
+
+Changed component reference "R1" from component "R 0.063W SMTF 0", package "SM0603" to component "R 0.063W SMTF 1.0K", package "SM0603".
+
+Added net "N0067".
+Added net "N0068".
+Added net "N0073".
+Added net "N0078".
+Added net "N0079".
+Added net "N0080".
+Added net "N0081".
+Added net "N0082".
+Added net "N0083".
+Added net "N0084".
+
+Added component reference "C14" of component "Capacitor", package "0603".
+Added value "Value=100nF" to component reference "C14".
+
+Added component reference "ANT1" of component "ANT-868-SP", package "ANT868SP".
+Added component reference "C15" of component "Capacitor", package "0603".
+Added value "Value=100nF" to component reference "C15".
+
+Added component reference "U2" of component "RFM95", package "SM".
+
+Renamed component reference "C16" to "C16".
+
+
+Connected pin "IC2.10" to net "N0082".
+Connected pin "IC2.11" to net "N0079".
+Connected pin "IC2.12" to net "N0080".
+Connected pin "IC2.13" to net "N0081".
+Connected pin "IC2.14" to net "N0083".
+Connected pin "IC2.15" to net "N0084".
+Connected pin "C14.1" to net "GND".
+Connected pin "C14.2" to net "N0067".
+Connected pin "AC2.1" to net "VCC".
+Connected pin "AC2.2" to net "N0033".
+Connected pin "AC2.3" to net "N0038".
+Connected pin "AC2.4" to net "N0067".
+Connected pin "AC2.10" to net "N0034".
+Connected pin "AC2.9" to net "GND".
+Connected pin "AC2.8" to net "N0068".
+Connected pin "AC2.7" to net "GND".
+Connected pin "AC2.6" to net "GND".
+Connected pin "ANT1.1" to net "N0073".
+Connected pin "ANT1.2" to net "GND".
+Connected pin "ANT1.3" to net "GND".
+Connected pin "ANT1.4" to net "GND".
+Connected pin "ANT1.5" to net "GND".
+Connected pin "ANT1.6" to net "GND".
+Connected pin "C15.1" to net "GND".
+Connected pin "C15.2" to net "N0068".
+Connected pin "U2.1" to net "N0073".
+Connected pin "U2.2" to net "GND".
+Connected pin "U2.5" to net "VCC".
+Connected pin "U2.6" to net "N0083".
+Connected pin "U2.7" to net "N0084".
+Connected pin "U2.9" to net "GND".
+Connected pin "U2.10" to net "N0080".
+Connected pin "U2.11" to net "N0081".
+Connected pin "U2.12" to net "N0079".
+Connected pin "U2.13" to net "N0078".
+Connected pin "U2.14" to net "N0082".
+Connected pin "U2.16" to net "GND".
+Connected pin "R1.1" to net "VCC".
+Connected pin "R1.2" to net "N0078".
 
 
 End Of Report.
