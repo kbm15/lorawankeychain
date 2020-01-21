@@ -1,20 +1,16 @@
-Forward Design Changes Report
------------------------------
+Pour Copper Report
+------------------
 
 Report Written:     Tuesday, January 21, 2020
 Project Path:       C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.prj
 Design Path:        C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.pcb
 Design Title:       
 Created:            06/01/2020 2:41:45
-Last Saved:         21/01/2020 21:41:11
-Editing Time:       2865 min
+Last Saved:         21/01/2020 22:22:53
+Editing Time:       2899 min
 Units:              mm (precision 3)
 
-Disconnected pin "PL1.1" from net "N0098".
-
-Deleted net "N0098".
-
-Connected pin "PL1.1" to net "GND".
-
+AC2.7 at 491.415,490.700 has no thermal spokes
+AC2.9 at 491.415,489.900 has no thermal spokes
 
 End Of Report.
