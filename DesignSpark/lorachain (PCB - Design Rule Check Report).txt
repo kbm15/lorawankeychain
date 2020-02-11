@@ -1,65 +1,85 @@
 Design Rule Check Report
 ------------------------
 
-Report Written:     Thursday, January 23, 2020
+Report Written:     Tuesday, February 11, 2020
 Project Path:       C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.prj
 Design Path:        C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.pcb
 Design Title:       
 Created:            06/01/2020 2:41:45
-Last Saved:         22/01/2020 18:34:42
-Editing Time:       3048 min
+Last Saved:         03/02/2020 22:14:33
+Editing Time:       3118 min
 Units:              mm (precision 3)
 
 
 Results
 =======
 
-Track to Pad Error (T-P) between (504.706 484.350) and (504.878 484.522) on Layer "Top Copper".
-    Error between Component Pad C4.2 (Net 'GND') and Track (Net 'VCC'), Gap is 0.000 needs to be 0.210.
+Pad to Pad Error (P-P) between (493.015 489.613) and (493.015 489.788) on Layer "[Top]".
+    Error between Component Pad AC2.1 (Net 'VCC') and Component Pad AC2.2 (Net 'SCL'), Gap is 0.175 needs to be 0.195.
 Track to Pad Error (T-P) between (493.615 489.613) and (493.615 489.900) on Layer "Top Copper".
-    Error between Component Pad AC2.1 (Net 'VCC') and Track (Net 'N0033'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.1 (Net 'VCC') and Track (Net 'SCL'), Gap is 0.182 needs to be 0.195.
+Pad to Pad Error (P-P) between (493.015 490.012) and (493.015 490.188) on Layer "[Top]".
+    Error between Component Pad AC2.2 (Net 'SCL') and Component Pad AC2.3 (Net 'AccInt'), Gap is 0.175 needs to be 0.195.
 Track to Pad Error (T-P) between (493.315 489.788) and (493.315 489.500) on Layer "Top Copper".
-    Error between Component Pad AC2.2 (Net 'N0033') and Track (Net 'VCC'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.2 (Net 'SCL') and Track (Net 'VCC'), Gap is 0.182 needs to be 0.195.
 Track to Pad Error (T-P) between (493.615 490.012) and (493.615 490.300) on Layer "Top Copper".
-    Error between Component Pad AC2.2 (Net 'N0033') and Track (Net 'N0038'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.2 (Net 'SCL') and Track (Net 'AccInt'), Gap is 0.182 needs to be 0.195.
+Pad to Pad Error (P-P) between (493.015 490.413) and (493.015 490.587) on Layer "[Top]".
+    Error between Component Pad AC2.3 (Net 'AccInt') and Component Pad AC2.4 (Net 'BYP'), Gap is 0.175 needs to be 0.195.
 Track to Pad Error (T-P) between (493.315 490.188) and (493.315 489.900) on Layer "Top Copper".
-    Error between Component Pad AC2.3 (Net 'N0038') and Track (Net 'N0033'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.3 (Net 'AccInt') and Track (Net 'SCL'), Gap is 0.182 needs to be 0.195.
 Track to Pad Error (T-P) between (493.615 490.413) and (493.615 490.700) on Layer "Top Copper".
-    Error between Component Pad AC2.3 (Net 'N0038') and Track (Net 'N0067'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.3 (Net 'AccInt') and Track (Net 'BYP'), Gap is 0.182 needs to be 0.195.
+Pad to Pad Error (P-P) between (493.015 490.812) and (493.015 490.988) on Layer "[Top]".
+    Error between Component Pad AC2.4 (Net 'BYP') and Component Pad AC2.5, Gap is 0.175 needs to be 0.195.
 Track to Pad Error (T-P) between (493.315 490.587) and (493.315 490.300) on Layer "Top Copper".
-    Error between Component Pad AC2.4 (Net 'N0067') and Track (Net 'N0038'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.4 (Net 'BYP') and Track (Net 'AccInt'), Gap is 0.182 needs to be 0.195.
 Track to Pad Error (T-P) between (493.315 490.988) and (493.315 490.700) on Layer "Top Copper".
-    Error between Component Pad AC2.5 and Track (Net 'N0067'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.5 and Track (Net 'BYP'), Gap is 0.182 needs to be 0.195.
+Pad to Pad Error (P-P) between (491.115 490.587) and (491.115 490.413) on Layer "[Top]".
+    Error between Component Pad AC2.7 (Net 'GND') and Component Pad AC2.8 (Net 'VCC'), Gap is 0.175 needs to be 0.195.
 Track to Pad Error (T-P) between (491.115 490.587) and (491.115 490.300) on Layer "Top Copper".
-    Error between Component Pad AC2.7 (Net 'GND') and Track (Net 'VCC'), Gap is 0.183 needs to be 0.210.
-Pad to Shape Error (P-C) between (491.425 490.188) and (491.425 489.900) on Layer "Top Copper".
-    Error between Component Pad AC2.8 (Net 'VCC') and Shape (Net 'GND'), Gap is 0.188 needs to be 0.210.
-Pad to Shape Error (P-C) between (491.425 490.413) and (491.425 490.700) on Layer "Top Copper".
-    Error between Component Pad AC2.8 (Net 'VCC') and Shape (Net 'GND'), Gap is 0.188 needs to be 0.210.
-Pad to Shape Error (P-C) between (491.715 490.413) and (491.715 490.700) on Layer "Top Copper".
-    Error between Component Pad AC2.8 (Net 'VCC') and Shape (Net 'GND'), Gap is 0.188 needs to be 0.210.
+    Error between Component Pad AC2.7 (Net 'GND') and Track (Net 'VCC'), Gap is 0.182 needs to be 0.195.
+Pad to Pad Error (P-P) between (491.115 490.188) and (491.115 490.012) on Layer "[Top]".
+    Error between Component Pad AC2.8 (Net 'VCC') and Component Pad AC2.9 (Net 'GND'), Gap is 0.175 needs to be 0.195.
+Pad to Pad Error (P-P) between (491.115 489.788) and (491.115 489.613) on Layer "[Top]".
+    Error between Component Pad AC2.9 (Net 'GND') and Component Pad AC2.10 (Net 'SDA'), Gap is 0.175 needs to be 0.195.
 Track to Pad Error (T-P) between (491.115 490.012) and (491.115 490.300) on Layer "Top Copper".
-    Error between Component Pad AC2.9 (Net 'GND') and Track (Net 'VCC'), Gap is 0.183 needs to be 0.210.
+    Error between Component Pad AC2.9 (Net 'GND') and Track (Net 'VCC'), Gap is 0.182 needs to be 0.195.
 Track to Pad Error (T-P) between (491.115 489.788) and (491.115 489.500) on Layer "Top Copper".
-    Error between Component Pad AC2.9 (Net 'GND') and Track (Net 'N0034'), Gap is 0.183 needs to be 0.210.
-Pad to Shape Error (P-C) between (491.715 489.613) and (491.715 489.900) on Layer "Top Copper".
-    Error between Component Pad AC2.10 (Net 'N0034') and Shape (Net 'GND'), Gap is 0.188 needs to be 0.210.
-Track to Shape Error (T-C) between (491.415 490.300) and (491.425 489.900) on Layer "Top Copper".
-    Error between Track (Net 'VCC') and Shape (Net 'GND'), Gap is 0.195 needs to be 0.210.
-Track to Shape Error (T-C) between (491.415 490.300) and (491.425 490.700) on Layer "Top Copper".
-    Error between Track (Net 'VCC') and Shape (Net 'GND'), Gap is 0.195 needs to be 0.210.
+    Error between Component Pad AC2.9 (Net 'GND') and Track (Net 'SDA'), Gap is 0.182 needs to be 0.195.
 Track to Track Error (T-T) between (493.315 489.500) and (493.315 489.900) on Layer "Top Copper".
-    Error between Track (Net 'VCC') and Track (Net 'N0033'), Gap is 0.190 needs to be 0.210.
+    Error between Track (Net 'VCC') and Track (Net 'SCL'), Gap is 0.190 needs to be 0.195.
 Track to Track Error (T-T) between (493.315 489.900) and (493.315 490.300) on Layer "Top Copper".
-    Error between Track (Net 'N0033') and Track (Net 'N0038'), Gap is 0.190 needs to be 0.210.
-Track to Shape Error (T-C) between (491.415 489.500) and (491.425 489.900) on Layer "Top Copper".
-    Error between Track (Net 'N0034') and Shape (Net 'GND'), Gap is 0.195 needs to be 0.210.
+    Error between Track (Net 'SCL') and Track (Net 'AccInt'), Gap is 0.190 needs to be 0.195.
 Track to Track Error (T-T) between (493.315 490.300) and (493.315 490.700) on Layer "Top Copper".
-    Error between Track (Net 'N0038') and Track (Net 'N0067'), Gap is 0.190 needs to be 0.210.
+    Error between Track (Net 'AccInt') and Track (Net 'BYP'), Gap is 0.190 needs to be 0.195.
 Component to Component error (Cm-Cm) at (477.349 486.329) on layer "[Top]".
     U1 - C1, Gap is 0.000.
+Gap in Net "GND" between (491.415,491.100) and (491.415,490.700) 
+    GND.
+Gap in Net "GND" between (490.801,489.137) and (491.415,489.900) 
+    GND.
+Gap in Net "VBat" between (480.575,492.400) and (490.411,497.825) 
+    VBat.
+Dangling Track from (468.249,502.749) to (468.250,502.750) on layer Top Copper
+Dangling Track from (468.249,495.901) to (468.250,495.900) on layer Top Copper
+Dangling Track from (481.955,487.000) to (481.952,487.002) on layer Top Copper
+Dangling Track from (514.450,492.861) to (514.400,492.911) on layer Top Copper
+Dangling Track from (514.289,492.800) to (514.400,492.911) on layer Top Copper
+Dangling Track from (492.292,488.592) to (492.300,488.600) on layer Top Copper
+Dangling Track from (492.350,488.650) to (492.300,488.600) on layer Top Copper
+Dangling Track from (521.550,493.103) to (521.825,494.175) on layer Top Copper
+Dangling Track from (504.062,486.337) to (504.000,486.275) on layer Top Copper
+Dangling Track from (503.961,486.236) to (504.000,486.275) on layer Top Copper
+Dangling Track from (506.250,483.850) to (505.939,483.850) on layer Top Copper
+Dangling Track from (505.500,485.932) to (505.500,485.762) on layer Top Copper
+Dangling Track from (511.150,494.288) to (511.100,494.238) on layer Top Copper
+Dangling Track from (490.312,485.161) to (490.312,485.150) on layer Top Copper
+Dangling Track from (489.700,499.978) to (489.652,500.026) on layer Top Copper
+Dangling Track from (490.411,497.825) to (490.311,498.200) on layer Top Copper
 
-Number of errors found : 22
+Number of errors found : 40
 
 
 Settings
@@ -99,9 +119,11 @@ Nets
 
 =====
 
-Net Completion               No
-Dangling Tracks              No
+Net Completion               Yes
+Dangling Tracks              Yes
 Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
 
 
 

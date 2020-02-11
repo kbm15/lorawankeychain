@@ -1,16 +1,14 @@
 Pour Copper Report
 ------------------
 
-Report Written:     Thursday, January 23, 2020
+Report Written:     Tuesday, February 11, 2020
 Project Path:       C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.prj
 Design Path:        C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.pcb
 Design Title:       
 Created:            06/01/2020 2:41:45
-Last Saved:         22/01/2020 18:34:42
-Editing Time:       3050 min
+Last Saved:         03/02/2020 22:14:33
+Editing Time:       3126 min
 Units:              mm (precision 3)
 
-AC2.7 at 491.415,490.700 has no thermal spokes
-AC2.9 at 491.415,489.900 has no thermal spokes
 
 End Of Report.

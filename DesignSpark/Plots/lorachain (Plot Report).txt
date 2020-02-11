@@ -1,0 +1,301 @@
+Plot Report
+-----------
+
+Report Written:     Tuesday, February 11, 2020
+Project Path:       C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.prj
+Design Path:        C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.pcb
+Design Title:       
+Created:            06/01/2020 2:41:45
+Last Saved:         11/02/2020 23:55:08
+Editing Time:       3143 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 2.3 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 3.94
+    D121   Round 1.97
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 7.87
+    D11    Round 5.91
+    D12    Round 3.94
+    D13    Round 15.75
+    D14    Round 9.84
+    D15    Round 5.00
+    D16    Round 8.00
+    D17    Round 10.00
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D15    Round 5.00
+    D18    Round 8.27
+    D19    Rectangle 23.62 X 35.43  Rotation 90
+    D70    Rectangle 78.74 X 165.35
+    D71    Rectangle 23.62 X 58.07
+    D20    Rectangle 23.62 X 58.07  Rotation 90
+    D21    Rectangle 11.81 X 31.50  Rotation 90
+    D22    Rectangle 11.81 X 31.50
+    D23    Square 68.90
+    D24    Square 216.54
+    D25    Square 157.48
+    D26    Rectangle 72.83 X 161.42
+    D27    Rectangle 39.37 X 42.91  Rotation 90
+    D28    Rectangle 39.37 X 42.91
+    D29    Rectangle 39.40 X 43.30  Rotation 90
+    D72    Rectangle 8.86 X 23.62  Rotation 90
+    D73    Rectangle 79.92 X 100.00  Rotation 90
+    D74    Rectangle 51.18 X 70.87
+    D75    Rectangle 33.46 X 39.37
+    D76    Square 60.00
+    D77    Round 56.00
+    D78    Round 24.02
+    D79    Round 32.00
+    D80    Round 19.69
+    D81    Round 11.81
+    D82    Round 50.00
+    D122   Round 7.68
+    D123   Round 33.46
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D83    Rectangle 19.62 X 31.43  Rotation 90
+    D84    Rectangle 74.74 X 161.35
+    D85    Rectangle 19.62 X 54.07
+    D86    Rectangle 19.62 X 54.07  Rotation 90
+    D87    Rectangle 7.81 X 27.50  Rotation 90
+    D88    Rectangle 7.81 X 27.50
+    D89    Square 64.90
+    D90    Square 212.54
+    D91    Square 153.48
+    D92    Rectangle 68.83 X 157.42
+    D93    Rectangle 35.37 X 38.91  Rotation 90
+    D94    Rectangle 35.37 X 38.91
+    D95    Rectangle 35.40 X 39.30  Rotation 90
+    D96    Rectangle 4.86 X 19.62  Rotation 90
+    D97    Rectangle 75.92 X 96.00  Rotation 90
+    D98    Rectangle 47.18 X 66.87
+    D99    Rectangle 29.46 X 35.37
+    D124   Round 33.47
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D100   Rectangle 29.62 X 41.43  Rotation 90
+    D101   Rectangle 84.74 X 171.35
+    D102   Rectangle 29.62 X 64.07
+    D103   Rectangle 29.62 X 64.07  Rotation 90
+    D104   Rectangle 17.81 X 37.50  Rotation 90
+    D105   Rectangle 17.81 X 37.50
+    D106   Square 74.90
+    D107   Square 222.54
+    D108   Square 163.48
+    D109   Rectangle 78.83 X 167.42
+    D110   Rectangle 45.37 X 48.91  Rotation 90
+    D111   Rectangle 45.37 X 48.91
+    D112   Rectangle 45.40 X 49.30  Rotation 90
+    D113   Rectangle 14.86 X 29.62  Rotation 90
+    D114   Rectangle 85.92 X 106.00  Rotation 90
+    D115   Rectangle 57.18 X 76.87
+    D116   Rectangle 39.46 X 45.37
+    D117   Square 66.00
+    D118   Round 62.00
+    D119   Round 30.02
+    D120   Round 38.00
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D15    Round 5.00
+    D18    Round 8.27
+    D76    Square 60.00
+    D77    Round 56.00
+    D78    Round 24.02
+    D79    Round 32.00
+    D80    Round 19.69
+    D81    Round 11.81
+    D122   Round 7.68
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D117   Square 66.00
+    D118   Round 62.00
+    D119   Round 30.02
+    D120   Round 38.00
+
+NC Drill Output
+===============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  0.012 inches 28    C
+    T002  0.016 inches 7     D
+    T003  0.032 inches 4     B
+    T004  0.035 inches 4     A
+    ------------------------------------
+    Total              43
+    ------------------------------------
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round A
+    32    Y      100  Round B
+    12    Y      100  Round C
+    16    Y      100  Round D
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.91
+    D125   Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\Plots\lorachain - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D15    Round 5.00
+
+End Of Report.

@@ -1,0 +1,20 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Monday, February 03, 2020
+Project Path:       C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.prj
+Design Path:        C:\Users\KBM15\Documents\lorawankeychain\DesignSpark\lorachain.pcb
+Design Title:       
+Created:            06/01/2020 2:41:45
+Last Saved:         03/02/2020 21:46:12
+Editing Time:       3090 min
+Units:              mm (precision 3)
+
+Net "VPump" changed from net class "Signal" to net class "Power".
+
+Net N0095 renamed to swclk
+Net N0096 renamed to SWDIO
+Net N0112 renamed to Boot0
+
+
+End Of Report.
