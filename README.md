@@ -8,3 +8,8 @@ Accelerometer - https://www.mouser.es/ProductDetail/STMicroelectronics/LIS2DWTR?
 Piezo Driver - https://www.mouser.es/ProductDetail/Diodes-Incorporated/PAM8904EJPR?qs=sGAEpiMZZMuyaNrx2BHM4u3bWRUoci4tog8p9j%252Bt6Z6vibT80P8XDQ%3D%3D   
 Boost - https://www.torexsemi.com/file/xc9141/XC9141-XC9142.pdf   
 Piezo Sounder - https://www.mouser.es/datasheet/2/670/cpt-9019s-smt-1310960.pdf   
+  
+#TO-DO
+Señal CE necesita una resistencia en serie. Añadir 0R para testeo a VCC/GND
+RST no ruteada a conector de debug. Conector muy grande
+
