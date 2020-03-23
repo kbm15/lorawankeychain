@@ -9,7 +9,6 @@ Piezo Driver - https://www.mouser.es/ProductDetail/Diodes-Incorporated/PAM8904EJ
 Boost - https://www.torexsemi.com/file/xc9141/XC9141-XC9142.pdf   
 Piezo Sounder - https://www.mouser.es/datasheet/2/670/cpt-9019s-smt-1310960.pdf   
   
-#TO-DO
-Señal CE necesita una resistencia en serie. Añadir 0R para testeo a VCC/GND
-RST no ruteada a conector de debug. Conector muy grande
+Bought in Digikey as there were a shortage of piezo in Mouser  
+New Piezo  - https://www.digikey.es/product-detail/es/murata-electronics/PKMCS0909E4000-R1/490-9647-1-ND/4878401
 
